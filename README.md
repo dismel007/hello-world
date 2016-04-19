@@ -1,2 +1,4 @@
 # hello-world
-my first git repository
+Hello
+
+This is my very first time in git. I love coding in javascript a lot.
